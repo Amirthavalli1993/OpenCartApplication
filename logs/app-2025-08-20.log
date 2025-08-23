@@ -1,0 +1,51 @@
+2025-08-20 00:07:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@73044cdf: 37 ms
+2025-08-20 00:07:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@58294867: 16 ms
+2025-08-20 00:07:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2ce45a7b: 30 ms
+2025-08-20 00:07:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64bfd6fd: 23 ms
+2025-08-20 00:07:29 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2ab2710: 0 ms
+2025-08-20 14:14:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-08-20 14:15:24 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-20 14:15:24 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-20 14:15:24 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-20 14:15:25 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-20 14:15:29 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-20 14:15:29 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-20 14:16:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-08-20 14:17:05 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-20 14:17:05 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-20 14:17:05 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-20 14:17:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-20 14:17:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-20 14:17:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-20 14:17:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-20 15:03:12 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\parallel.xml
+
+2025-08-20 15:03:12 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-20 15:03:12 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-20 15:03:12 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Execution Failed
+2025-08-20 15:03:20 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-20 15:03:20 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-20 15:03:20 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-20 15:03:22 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-20 15:03:25 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-20 15:03:25 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-20 15:03:25 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-20 15:04:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\parallel.xml
+
+2025-08-20 15:05:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-20 15:05:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-20 15:05:09 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-20 15:05:11 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-20 15:05:18 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-20 15:05:18 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-20 15:05:18 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-20 15:05:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-20 15:05:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-20 15:05:27 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-20 15:05:29 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****

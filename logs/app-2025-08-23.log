@@ -1,0 +1,55 @@
+2025-08-21 16:08:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-21 16:08:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-21 16:08:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-21 16:08:32 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-21 16:08:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-21 16:08:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-21 16:08:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-21 16:08:45 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-21 16:08:48 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Ended ******
+2025-08-21 16:11:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-08-21 16:12:05 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-21 16:12:05 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-21 16:12:06 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-21 16:12:07 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-21 16:12:11 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-21 16:12:11 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-21 16:12:11 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-21 16:12:20 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-21 16:12:23 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Ended ******
+2025-08-21 16:14:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-08-21 16:14:29 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-21 16:14:29 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-21 16:14:30 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-21 16:14:31 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-21 16:14:35 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-21 16:14:36 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-21 16:14:36 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-21 16:14:42 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-21 16:17:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-08-21 16:17:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Started*****
+2025-08-21 16:17:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked My Account*****
+2025-08-21 16:17:37 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Clicked Register*****
+2025-08-21 16:17:38 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Started*****
+2025-08-21 16:17:41 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Ends*****
+2025-08-21 16:17:41 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Validating Confirmation Message*****
+2025-08-21 16:17:41 [main] INFO  testCases.TC001_AccountRegistrationTest - *****TC001_AccountRegistrationTest Completed*****
+2025-08-21 16:17:52 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-21 18:12:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-08-21 18:12:25 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-21 20:49:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\test-output\testng-failed.xml
+
+2025-08-21 20:49:50 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-21 20:49:54 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Ended ******
+2025-08-23 19:39:12 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
+2025-08-23 19:39:15 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Ended ******
+2025-08-23 19:51:53 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
