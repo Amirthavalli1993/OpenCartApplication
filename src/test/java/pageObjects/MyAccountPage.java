@@ -20,6 +20,9 @@ public class MyAccountPage extends BasePage
 	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
 	WebElement lnkLogout;
 	
+	@FindBy(xpath="//a[normalize-space()='Tablets']")
+	WebElement lnkTablets;
+	
 	//Actions
 	public String textMyAccountIsDisplay()
 	{
@@ -29,5 +32,10 @@ public class MyAccountPage extends BasePage
 	public void clickLogout()
 	{
 		lnkLogout.click();
+	}
+	
+	public void clickTablets()
+	{
+		lnkTablets.click();
 	}
 }

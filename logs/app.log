@@ -1,3 +1,28 @@
-2025-08-23 19:51:57 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Ended ******
-2025-08-23 21:45:59 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Started ******
-2025-08-23 21:46:04 [main] INFO  testCases.TC002_LoginTest - ****** TC002_LoginTest Ended ******
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-09-03 15:17:44 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-09-03 15:17:45 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--395262779\testng-customsuite.xml
+
+2025-09-03 15:17:45 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+2025-09-03 15:17:45 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@275fe372: 434 ms
+2025-09-03 15:17:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7fc44dec: 28 ms
+2025-09-03 15:17:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@42a9e5d1: 40 ms
+2025-09-03 15:17:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1bc715b8: 31 ms
+2025-09-03 15:17:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@63192798: 19 ms
+2025-09-03 15:17:46 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@50eca7c6: 0 ms
+2025-09-03 15:18:15 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-03 15:18:27 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Started......
+2025-09-03 15:18:33 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Finished......
+2025-09-03 15:25:31 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-03 15:25:43 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Started......
+2025-09-03 15:25:48 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Finished......

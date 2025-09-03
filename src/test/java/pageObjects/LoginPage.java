@@ -23,6 +23,9 @@ public class LoginPage extends BasePage
 	@FindBy(xpath="//input[@value='Login']")
 	WebElement btnLogin;
 	
+	@FindBy(how=How.XPATH, using="//span[normalize-space()='Add to Cart']")
+	WebElement btnAddToCart;
+	
 	//Actions
 	public void setEmailAddress(String email)
 	{
@@ -37,6 +40,11 @@ public class LoginPage extends BasePage
 	public void clickLogin()
 	{
 		btnLogin.click();
+	}
+	
+	public void clickAddToCart()
+	{
+		btnAddToCart.click();
 	}
 
 }

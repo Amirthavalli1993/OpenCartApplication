@@ -6,6 +6,7 @@ import org.testng.annotations.Test;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
+import pageObjects.TabletsPage;
 import testBase.BaseClass;
 
 public class TC002_LoginTest extends BaseClass
@@ -36,6 +37,10 @@ public class TC002_LoginTest extends BaseClass
 			{
 				Assert.assertFalse(true);
 			}
+			
+			log.info(".........TC004_AddToCartTest Started......");
+			myacc.clickTablets();
+			log.info(".........TC004_AddToCartTest Finished......");
 		}
 		catch(Exception e)
 		{
