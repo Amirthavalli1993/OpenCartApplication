@@ -23,6 +23,8 @@ public class HomePage extends BasePage
 	@FindBy(xpath="//a[text()='Login']")
 	WebElement lnkLogin;
 	
+	@FindBy(how=How.PARTIAL_LINK_TEXT, using="Wish List ")
+	WebElement lnkWishList;
 	//Actions
 	public void clickMyAccount()
 	{
@@ -39,4 +41,8 @@ public class HomePage extends BasePage
 		lnkLogin.click();
 	}
 	
+	public void clickWishList()
+	{
+		lnkWishList.click();
+	}
 }

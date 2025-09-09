@@ -26,3 +26,28 @@
 
 2025-09-03 15:25:43 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Started......
 2025-09-03 15:25:48 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Finished......
+2025-09-08 18:18:43 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-08 18:19:02 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Started......
+2025-09-08 18:19:12 [main] INFO  testCases.TC004_AddToCartTest - .........TC004_AddToCartTest Finished......
+2025-09-09 15:37:48 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-09 15:38:01 [main] INFO  testCases.TC006_AddToWishListTest - ***********TC006_AddToWishListTest started**********
+2025-09-09 15:38:14 [main] INFO  testCases.TC006_AddToWishListTest - *************TC006_AddToWishListTest Finished************
+2025-09-09 15:41:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-09 15:41:30 [main] INFO  testCases.TC006_AddToWishListTest - ***********TC006_AddToWishListTest started**********
+2025-09-09 15:41:33 [main] INFO  testCases.TC006_AddToWishListTest - *************TC006_AddToWishListTest Finished************
+2025-09-09 15:43:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-09 15:43:19 [main] INFO  testCases.TC006_AddToWishListTest - ***********TC006_AddToWishListTest started**********
+2025-09-09 15:43:23 [main] INFO  testCases.TC006_AddToWishListTest - *************TC006_AddToWishListTest Finished************
+2025-09-09 15:47:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\OpenCartApplication\testng.xml
+
+2025-09-09 15:47:28 [main] INFO  testCases.TC006_AddToWishListTest - ***********TC006_AddToWishListTest started**********
+2025-09-09 15:47:34 [main] INFO  testCases.TC006_AddToWishListTest - *************TC006_AddToWishListTest Finished************
